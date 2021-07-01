@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 
+  menu: MyString
+  set: 1
+  weight: 1
+  rep: 1
+  start_time: 2021-07-02 07:11:36
+
+two:
+  user_id: 
+  menu: MyString
+  set: 1
+  weight: 1
+  rep: 1
+  start_time: 2021-07-02 07:11:36
